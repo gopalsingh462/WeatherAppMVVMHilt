@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_weather_additional_info.xml",
+        "source": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\layout_weather_additional_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_sunrise_sunset.xml",
+        "source": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\layout_sunrise_sunset.xml"
+    },
+    {
+        "merged": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_input_part.xml",
+        "source": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\layout_input_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_weather_basic_info.xml",
+        "source": "C:\\Users\\gs64426\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\layout_weather_basic_info.xml"
+    }
+]
