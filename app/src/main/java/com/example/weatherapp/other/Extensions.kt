@@ -1,7 +1,6 @@
 package com.example.weatherapp.other
 
 import android.view.View
-import com.example.weatherapp.models.City
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -37,17 +36,6 @@ fun Int.unixTimestampToTimeString(): String {
     }
 
     return this.toString()
-}
-
-fun MutableList<City>.convertToListOfCityName(): MutableList<String> {
-
-    val cityNameList: MutableList<String> = mutableListOf()
-
-    for (city in this) {
-        cityNameList.add(city.name)
-    }
-
-    return cityNameList
 }
 
 fun Double.kelvinToCelsius(): Int {
