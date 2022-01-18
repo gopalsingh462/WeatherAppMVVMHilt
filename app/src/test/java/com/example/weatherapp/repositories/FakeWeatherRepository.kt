@@ -17,7 +17,7 @@ class FakeWeatherRepository : WeatherRepository {
 
     override suspend fun getWeatherInfo(query: String): Resource<WeatherResponse> {
         return if (shouldReturnNetworkError) {
-            Resource.error("Errror message", null)
+            Resource.error("Error message", null)
         } else if (shouldReturnLoading) {
             Resource.loading(null)
         } else {

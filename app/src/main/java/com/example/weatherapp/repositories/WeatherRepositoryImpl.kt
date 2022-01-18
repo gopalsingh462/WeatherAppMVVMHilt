@@ -16,7 +16,7 @@ class WeatherRepositoryImpl @Inject constructor(
                     return Resource.success(it)
                 } ?: return Resource.error("Unknown error occurred", null)
             } else {
-                return Resource.error("Unknown error occured", null)
+                return Resource.error("Unknown error occurred", null)
             }
         } catch (e: Exception) {
             return Resource.error("Please check your internet connection", null)
